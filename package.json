@@ -1,0 +1,23 @@
+{
+  "name": "shn-openai",
+  "version": "1.0.0",
+  "description": "Open AI API’s allows users to build next-gen apps with powerful models like DALLE, Codex, GPT-3",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adhilameenet/SHN-OpenAI.git"
+  },
+  "author": "Adhil Ameen ET",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adhilameenet/SHN-OpenAI/issues"
+  },
+  "homepage": "https://github.com/adhilameenet/SHN-OpenAI#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "openai": "^3.1.0"
+  }
+}
